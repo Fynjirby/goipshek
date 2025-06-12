@@ -9,7 +9,7 @@ Check your or other IP fast via CLI
 #### Fastest way 
 Run this command in terminal and it will install everything itself
 ```sh
-curl https://raw.githubusercontent.com/Fynjirby/goipshek/refs/heads/main/install.sh | sh
+curl -L https://sh.fynjirby.dev/goipshek | sh
 ```
 or if you prefer GoLang package manager use
 ```sh
