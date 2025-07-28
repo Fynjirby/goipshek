@@ -7,11 +7,7 @@ Check your or other IP fast via CLI
  
 ## Install
 #### Fastest way 
-Try [benomad](https://github.com/fynjirby/benomad/)! Thats the command
-```sh
-benomad install https://ben.fynjirby.dev/Fynjirby/goipshek/install_goipshek.ben
-```
-Or if you dont have benomad, run this command in terminal and it will install everything itself
+Just run this command in terminal and it will install everything itself
 ```sh
 curl -L https://sh.fynjirby.dev/goipshek | sh
 ```
